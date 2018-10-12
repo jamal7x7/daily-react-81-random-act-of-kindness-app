@@ -1,8 +1,8 @@
-## Daily-react-81-random-act-of-kindness-app
+## Daily-react-81-random-acts-of-kindness-app
 
-> Challenge: create a Random Act Of Kindness App.
+> Challenge: create a Random Acts Of Kindness App.
 
-Work in progress: https://github.com/jamal7x7/daily-react-81-random-act-of-kindness-app
+Work in progress: https://github.com/jamal7x7/daily-react-81-random-acts-of-kindness-app
 
 Road-map:
 
@@ -14,7 +14,7 @@ Road-map:
 
 ---
 
-![Alt text](src/images/daily-react-81-random-act-of-kindness-app.png?raw=true "App UI")
+![Alt text](src/images/daily-react-81-random-acts-of-kindness-app.png?raw=true "App UI")
 
 
 

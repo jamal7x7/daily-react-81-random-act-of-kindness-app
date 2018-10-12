@@ -3,7 +3,7 @@ import '../styles/App.sass'
 
 const Header = () => (
   <header className='App-header'>
-    <h1 className='App-title'> Random Act Of Kindness App </h1>
+    <h1 className='App-title'> Random Acts Of Kindness App </h1>
   </header>
 )
 
@@ -25,7 +25,7 @@ const Side = () => (
 
 
 
-class  RandomActOfKindnessApp extends Component {
+class  RandomActsOfKindnessApp extends Component {
   
   state = {
     
@@ -56,7 +56,7 @@ class  RandomActOfKindnessApp extends Component {
 const App = (props) => (
   <div className='App'>
     <Header />
-    < RandomActOfKindnessApp />
+    < RandomActsOfKindnessApp />
 
   </div>
 )
