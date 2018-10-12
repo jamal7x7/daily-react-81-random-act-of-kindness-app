@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /info.md
+/p.txt
 
 # testing
 /coverage
