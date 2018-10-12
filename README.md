@@ -1,6 +1,6 @@
 ## Daily-react-81-random-act-of-kindness-app
 
-> Challenge: create a Kids Milestones Tracker App.
+> Challenge: create a Random Act Of Kindness App.
 
 Work in progress: https://github.com/jamal7x7/daily-react-81-random-act-of-kindness-app
 
